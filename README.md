@@ -11,6 +11,6 @@ A simple Python tool that provides access to various services including:
 
 ## Installation
 ```bash
-git clone https://github.com/dltheghost000/DARK-Services.git
-cd DARK-Services
+git clone https://github.com/dltheghost000-arch/DARK-Services.git
+cd DARK.py
 python DARK.py
