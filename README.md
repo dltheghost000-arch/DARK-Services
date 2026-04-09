@@ -10,9 +10,13 @@ A simple Python tool that provides access to various services including:
 - Python 3.x
 
 ## Installation
+## 1_Packages Installation
 ```bash
 pkg install python
-pkg install git 
+pkg install git
+```
+##2_Clone The Project
+```bash
 git clone https://github.com/dltheghost000-arch/DARK-Services.git
 cd DARK-Services
 python DARK.py
