@@ -15,7 +15,7 @@ A simple Python tool that provides access to various services including:
 pkg install python
 pkg install git
 ```
-##2_Clone The Project
+## 2_Clone The Project
 ```bash
 git clone https://github.com/dltheghost000-arch/DARK-Services.git
 cd DARK-Services
